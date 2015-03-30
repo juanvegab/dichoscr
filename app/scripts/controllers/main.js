@@ -18,6 +18,10 @@ angular.module('firebaseApp')
 	this.addQuote = function() {
 
 	};
-	
+	this.loadTags = function() {
+		return this.tags;
+	};
+
+
 	$('.carousel').carousel();
 }]);
