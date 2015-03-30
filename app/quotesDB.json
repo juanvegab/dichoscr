@@ -1,0 +1,20 @@
+{
+  "quotes" : [ {
+    "author" : "Juan Carlos Vega Abarca",
+    "date" : "07-23-1990",
+    "quote" : "Voy como cuecha en plancha!",
+    "tags" : [ 1, 2 ]
+  }, {
+    "author" : "Juan Carlos Vega Abarca",
+    "date" : "07-23-1990",
+    "quote" : "No me entra ni un balazo!",
+    "tags" : [ 3 ]
+  } ],
+  "tags" : [ {
+    "name" : "velocidad"
+  }, {
+    "name" : "rapido"
+  }, {
+    "name" : "comida"
+  } ]
+}
