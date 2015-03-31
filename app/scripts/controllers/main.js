@@ -33,5 +33,9 @@ angular.module('firebaseApp')
 		});
 	};
 	
+	this.loadTags = function() {
+		return this.tags;
+	};
+
 	$('.carousel').carousel();
 }]);
